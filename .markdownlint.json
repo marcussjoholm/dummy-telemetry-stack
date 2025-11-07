@@ -1,8 +1,0 @@
-{
-  "default": true,
-  "single-title": {
-    "front_matter_title": ""
-  },
-  "line-length": false,
-  "no-inline-html": false
-}
