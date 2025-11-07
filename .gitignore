@@ -3,3 +3,4 @@
 /reference/*/resources
 /*.tar
 /registry-data/
+.idea
